@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.806773c6.css",
+    "main.js": "/static/js/main.d922bad8.js",
+    "static/media/trainer.png": "/static/media/trainer.d5ac997315b633881155.png",
+    "static/media/gym-02.png": "/static/media/gym-02.06fd85c2c7a9d0f48978.png",
+    "static/media/avatar02.png": "/static/media/avatar02.43d3323871cb17add5e2.png",
+    "static/media/avatar01.png": "/static/media/avatar01.712b9be90c75dec89232.png",
+    "static/media/yoga-pose.png": "/static/media/yoga-pose.1009817918cc6df26064.png",
+    "static/media/extended.png": "/static/media/extended.65fee2ef368e447527a7.png",
+    "static/media/lunges.png": "/static/media/lunges.52e48615ce527a095bcf.png",
+    "index.html": "/index.html",
+    "main.806773c6.css.map": "/static/css/main.806773c6.css.map",
+    "main.d922bad8.js.map": "/static/js/main.d922bad8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.806773c6.css",
+    "static/js/main.d922bad8.js"
+  ]
+}
